@@ -15,10 +15,11 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .header-text{
     width: 50%;
-    padding-left: 25px;
+    padding-left:10%;
 }
 .hire-text{
     padding: 10px 40px;
@@ -37,4 +38,9 @@ section{
 }
 .img-tag img{
     width: 80%;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
